@@ -1,0 +1,1 @@
+Java -jar "D:\EPSI-PROJETS\CI\jenkins.war"

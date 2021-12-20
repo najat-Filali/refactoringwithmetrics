@@ -7,7 +7,7 @@ package calculatricejenkins;
 
 /**
  *
- * @author filal
+ * @author filali
  */
 public class CalculatriceJenkins {
 
